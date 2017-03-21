@@ -1,0 +1,5 @@
+Makefile
+bimaru
+*.o
+moc_*.cpp
+qrc_*.cpp

@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>images/fields/empty.png</file>
+    <file>images/fields/water.png</file>
+    <file>images/fields/boat.single.png</file>
+</qresource>
+</RCC>
